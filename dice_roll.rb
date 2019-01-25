@@ -4,6 +4,6 @@
 
 def roll(dice)
   dice = rand(1..6)
-  puts roll
+  puts "#{dice}"
   # code goes here
 end
