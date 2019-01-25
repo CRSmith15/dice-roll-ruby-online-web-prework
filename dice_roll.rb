@@ -4,4 +4,3 @@
 def roll(number=1 )
   return "#{number}"
 end
-
