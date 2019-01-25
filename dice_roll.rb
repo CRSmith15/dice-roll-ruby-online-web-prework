@@ -2,5 +2,5 @@
 
 # Feel free to google "how to generate a random number in ruby"
 def roll(number=1 )
-  return 1
+  return rand(1..6)
 end
